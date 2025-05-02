@@ -9,9 +9,10 @@ void ref(int x,int y)
 }
 int main()
 {
+  cout << "Name : Shreya Vadukar" <<"\n"<<"Enrollment number : 24BT04175"<<endl;
   int a=3,b=5;
   ref(a,b);
-  cout<<"value of a="<<a;
+  cout<<"value of a="<<a<<endl;
 
   cout<<"value of a="<<a<<endl;
   cout<<"value of b="<<b;

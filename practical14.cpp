@@ -34,7 +34,7 @@ public:
 };
 
 int main() {
-    cout << "Name : Shreya Vadukar" <<"/n"<<"Enrollment number : 24BT04175"<<endl;
+    cout << "Name : Shreya Vadukar" <<"\n"<<"Enrollment number : 24BT04175"<<endl;
     // Default constructor
     Student s1;
     s1.display();

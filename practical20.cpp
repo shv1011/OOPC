@@ -18,7 +18,7 @@ public:
 };
 
 int main() {
-    cout << "Name : Shreya Vadukar" <<"/n"<<"Enrollment number : 24BT04175"<<endl;
+    cout << "Name : Shreya Vadukar" <<"\n"<<"Enrollment number : 24BT04175"<<endl;
     Derived d;
     return 0;
 }

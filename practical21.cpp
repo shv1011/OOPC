@@ -137,7 +137,7 @@ void displayFile(const string& filename) {
 }
 
 int main() {
-    cout << "Name : Shreya Vadukar" <<"/n"<<"Enrollment number : 24BT04175"<<endl;
+    cout << "Name : Shreya Vadukar" <<"\n"<<"Enrollment number : 24BT04175"<<endl;
     int choice;
     string file1, file2, file3;
     do {

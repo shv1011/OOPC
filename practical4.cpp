@@ -4,16 +4,16 @@
 using namespace std;
 
 int main() {
-    cout << "Name : Shreya Vadukar" <<"/n"<<"Enrollment number : 24BT04175"<<endl;
-    cout<<"/n /n"<<endl;
+    cout << "Name : Shreya Vadukar" <<"\n"<<"Enrollment number : 24BT04175"<<endl;
+    cout<<"\n \n"<<endl;
 
-    cout<<"If statement" << endl;
+    cout<<"\n If statement" << endl;
     int age = 18;
     if (age == 18) {
-        cout << "Helloo!" << endl;
+        cout << "You are a teenager!" << endl;
     }
     
-    cout << "If-else statement" << endl;
+    cout << "\n If-else statement" << endl;
     int num = 10;
     if (num % 2 == 0) {
         cout << "The number is even." << endl;
@@ -21,7 +21,7 @@ int main() {
         cout << "The number is odd." << endl;
     }
 
-    cout<<"if-else if-else ladder statement"<< endl;
+    cout<<"\n if-else if-else ladder statement"<< endl;
     int GuessNum;
     int Num = 67;
     cout << "Guess a number: ";
@@ -34,7 +34,7 @@ int main() {
     }
     
 
-    cout<< "Switch statement" << endl;
+    cout<< "\n Switch statement" << endl;
     char grade = 'B';
     switch (grade) {
         case 'A':

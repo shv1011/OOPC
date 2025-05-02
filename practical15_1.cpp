@@ -31,7 +31,7 @@ public:
 };
 
 int main() {
-    cout << "Name : Shreya Vadukar" <<"/n"<<"Enrollment number : 24BT04175"<<endl;
+    cout << "Name : Shreya Vadukar" <<"\n"<<"Enrollment number : 24BT04175"<<endl;
     Rectangle rect1;         // Default constructor
     Rectangle rect2(5);      // Constructor with one parameter
     Rectangle rect3(5, 3);   // Constructor with two parameters

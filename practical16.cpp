@@ -27,7 +27,7 @@ void displayVolume(Box b) {
 }
 
 int main() {
-    cout << "Name : Shreya Vadukar" <<"/n"<<"Enrollment number : 24BT04175"<<endl;
+    cout << "Name : Shreya Vadukar" <<"\n"<<"Enrollment number : 24BT04175"<<endl;
     Box box1(3, 4, 5);
     displayVolume(box1); // Friend function can access private members
     return 0;

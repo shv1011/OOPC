@@ -18,6 +18,7 @@ void puta() {
 }
 };
 int main(){
+    cout << "Name : Shreya Vadukar" <<"\n"<<"Enrollment number : 24BT04175"<<endl;
     Pre P1;
     P1.geta();
     P1.puta();

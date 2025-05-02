@@ -9,6 +9,7 @@ inline int max(int a, int b) {
 }
 
 int main() {
+    cout << "Name : Shreya Vadukar" <<"\n"<<"Enrollment number : 24BT04175"<<endl;
     int x = 5, y = 10;
     cout << "Max of " << x << " and " << y << " is: " << max(x, y) << endl;
     cout << "Max of 20 and 15 is: " << max(20, 15) << endl;

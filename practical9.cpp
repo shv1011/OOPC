@@ -8,6 +8,7 @@ int add(int x,int y)
 }
 int main()
 {
+    cout << "Name : Shreya Vadukar" <<"\n"<<"Enrollment number : 24BT04175"<<endl;
     int a=10,b=10;
     int sum=add(a,b);
     cout<<"the sum is: "<<sum<<"\n";

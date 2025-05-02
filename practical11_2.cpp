@@ -13,6 +13,7 @@ void Demo::put()
     cout<<"Hello there!! "; //outside class
 }
 int main(){
+    cout << "Name : Shreya Vadukar" <<"\n"<<"Enrollment number : 24BT04175"<<endl;
     Demo D1;
     D1.put();
     return 0;
